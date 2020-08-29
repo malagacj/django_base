@@ -1,0 +1,12 @@
+db.sqlite3
+
+initial_data.csv
+
+**.pyc
+
+**/__pycache__/**
+
+Euskadi/static/Landing-page
+Euskadi/static/Admin-Dashboard
+Euskadi/static/Blog
+Euskadi/static/Ecommerce
